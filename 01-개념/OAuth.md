@@ -28,6 +28,7 @@ aliases: [OAuth, OAuth2, OIDC, OpenID Connect]
 - OAuth(인가)와 OIDC(인증)를 섞어 이해하면 로그인 설계가 어긋난다 → [[인증과 인가]] 구분이 전제.
 
 ## 관련 개념
+- [[OIDC]] — OAuth 2.0 위에 인증을 얹은 계층(ID 토큰)
 - [[인증과 인가]] — OAuth=인가, OIDC=인증이라는 핵심 구분
 - [[쿠키 세션 JWT]] — access/ID 토큰이 흔히 JWT
 - [[API 게이트웨이]] — 토큰 검증을 공통 관문에서 처리하기도
