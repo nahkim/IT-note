@@ -19,8 +19,8 @@ created: 2026-06-10
 - 성능 기능: **적응형 배칭(adaptive batching)**으로 요청을 자동으로 묶어 GPU 처리량을 높이고, 워커 병렬 실행·GPU·비동기를 지원한다.
 - 입력/출력은 **타입 힌트 + Pydantic**으로 자동 검증되고, Swagger(OpenAPI) 문서가 자동 생성된다.
 - PyTorch, TensorFlow, scikit-learn, XGBoost, ONNX, Hugging Face Transformers 등 다양한 프레임워크를 지원한다.
-- LLM 서빙: **vLLM** 연동, 오픈소스 LLM을 OpenAI 호환 API로 띄우는 자매 프로젝트 **OpenLLM**.
-- 배포처: Docker·쿠버네티스, 그리고 관리형 배포 플랫폼 **BentoCloud**.
+- LLM 서빙: **[[vLLM]]** 연동, 오픈소스 LLM을 OpenAI 호환 API로 띄우는 자매 프로젝트 **OpenLLM**([[로컬 LLM과 셀프호스팅|셀프호스팅]]의 상위 서빙 계층).
+- 배포처: [[컨테이너와 Docker|Docker]]·[[쿠버네티스]], 그리고 관리형 배포 플랫폼 **BentoCloud**. (신버전 교체는 [[무중단 배포]]로)
 
 ## 왜 중요한가
 - 모델을 [[FastAPI]]로 직접 감싸며 반복하던 일(직렬화·배칭·도커라이즈·스케일링)을 **표준화**해 준다.
@@ -29,7 +29,10 @@ created: 2026-06-10
 
 ## 관련 개념
 - [[LLM]] — BentoML로 서빙하는 대표적인 모델
+- [[vLLM]] — BentoML이 뒤에 두는 고성능 LLM 추론 엔진
+- [[FastAPI]] — 직접 API를 짤 때의 하위 대안(BentoML이 표준화해 줌)
 - [[RAG]] — RAG 파이프라인을 API로 배포할 때의 서빙 계층
+- [[컨테이너와 Docker]] · [[쿠버네티스]] · [[무중단 배포]] — 빌드(Bento)→컨테이너화→배포·롤아웃
 - [[수평 확장]] · [[로드 밸런서]] — 트래픽 증가 시 복제본을 늘려 분산
 - 실습: [[BentoML 첫 프로젝트 만들기]]
 
