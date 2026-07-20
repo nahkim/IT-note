@@ -6,7 +6,43 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"01-개념\"",
+      "color": {
+        "a": 1,
+        "rgb": 6061306
+      }
+    },
+    {
+      "query": "path:\"02-기술노트\"",
+      "color": {
+        "a": 1,
+        "rgb": 4243543
+      }
+    },
+    {
+      "query": "path:\"03-주제정리\"",
+      "color": {
+        "a": 1,
+        "rgb": 9926138
+      }
+    },
+    {
+      "query": "path:\"04-뉴스\"",
+      "color": {
+        "a": 1,
+        "rgb": 8818326
+      }
+    },
+    {
+      "query": "path:\"06-개발용어\"",
+      "color": {
+        "a": 1,
+        "rgb": 16419862
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.028458516616249,
+  "scale": 0.37140494781919436,
   "close": true
 }
