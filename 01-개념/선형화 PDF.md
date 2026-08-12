@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 기타
 tags: [IT, 파일포맷, PDF, 웹]
 created: 2026-06-15
 aliases: [선형화 PDF, Linearized PDF, Fast Web View, 웹 최적화 PDF]

@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 네트워크
 tags: [IT, 웹, 네트워크, 백엔드]
 created: 2026-06-25
 ---

@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 보안
 tags: [IT, 보안, 정책, 인증, 기초]
 created: 2026-07-15
 aliases: [ISMS, ISMS-P, 정보보호 관리체계, 정보보호 및 개인정보보호 관리체계, ISO 27001, ISO/IEC 27001, Information Security Management System]

@@ -1,5 +1,6 @@
 ---
 type: 주제정리
+domain: AI/ML
 tags: [IT, AI, LLM, 정리]
 created: 2026-07-08
 aliases: [프롬프트 엔지니어링 vs 파인튜닝, 프롬프트 vs 파인튜닝, PE vs 파인튜닝]

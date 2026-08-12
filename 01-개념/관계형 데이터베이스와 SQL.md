@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 데이터베이스
 tags: [IT, 데이터베이스, 기초]
 created: 2026-06-11
 aliases: [관계형DB, RDB, SQL, RDBMS]

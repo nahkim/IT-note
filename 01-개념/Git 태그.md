@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 인프라
 tags: [IT, 도구, Git, 버전관리]
 created: 2026-07-01
 aliases: [Git 태그, git tag, lightweight 태그, annotated 태그]

@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: 일반
 tags: [IT, 개발용어, 커뮤니케이션]
 created: 2026-07-03
 aliases: [FYI, For Your Information, 참고로]

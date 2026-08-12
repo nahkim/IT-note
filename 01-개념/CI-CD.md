@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 인프라
 tags: [IT, DevOps, 기초]
 created: 2026-06-11
 aliases: [CI/CD, CI, CD, 지속적 통합, 지속적 배포]

@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 백엔드
 tags: [IT, 백엔드, API]
 created: 2026-06-10
 ---

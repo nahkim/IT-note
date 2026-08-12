@@ -1,5 +1,6 @@
 ---
 type: 주제정리
+domain: 인프라
 tags: [IT, 인프라, AI, 정리]
 created: 2026-07-21
 aliases: [온프레미스 vs 온디바이스, 온프렘 vs 온디바이스]

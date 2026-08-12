@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 인프라
 tags: [IT, DevOps, 운영, 모니터링, 성능]
 created: 2026-07-20
 aliases: [APM, 애플리케이션 성능 모니터링, Application Performance Monitoring, Application Performance Management, 관측 가능성, Observability, 분산 추적, Distributed Tracing]

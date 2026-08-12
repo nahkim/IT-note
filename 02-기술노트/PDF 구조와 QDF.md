@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: 기타
 tags: [IT, 노트, 파일포맷, PDF]
 출처: PDF 구조 해설(Mapsoft·Nutrient·losLab) + qpdf 공식 문서(QDF Mode·Object/Xref Streams·JSON) + J. Berkenbilt "The Structure of a PDF File"
 종류: 정리

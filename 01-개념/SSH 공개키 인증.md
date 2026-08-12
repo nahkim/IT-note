@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 보안
 tags: [IT, 보안, 인프라, SSH]
 created: 2026-06-26
 aliases: [SSH 키 인증, 패스워드 없는 SSH, SSH 공개키, passwordless ssh]

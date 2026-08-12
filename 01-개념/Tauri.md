@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 프론트엔드
 tags: [IT, 프론트엔드, 데스크톱앱, Rust]
 created: 2026-06-25
 aliases: [Tauri, 타우리]
@@ -36,6 +37,7 @@ aliases: [Tauri, 타우리]
 - 단, 플랫폼별 웹뷰 차이와 Rust 학습 곡선은 도입 전에 고려할 점.
 
 ## 관련 개념
+- [[Wails]] — 같은 구조의 **Go 버전**. 직접 비교는 [[Tauri vs Wails]]
 - [[서비스 워커]] · PWA — 설치 없이 "앱 같은 웹"을 노리는 다른 접근(웹뷰 대신 브라우저)
 - [[가비지 컬렉션과 메모리]] — Tauri가 Rust로 GC 없이 메모리 안전성을 얻는 이유와 연결
 - [[컨테이너와 Docker]] — "런타임을 통째로 싸느냐"의 대비 (Electron=Chromium 동봉 vs Tauri=OS 웹뷰 재사용)

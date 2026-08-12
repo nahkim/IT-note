@@ -1,5 +1,6 @@
 ---
 type: 실습
+domain: AI/ML
 tags: [IT, 실습, MLOps]
 created: 2026-06-10
 난이도: 쉬움

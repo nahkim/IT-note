@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: 보안
 tags: [IT, 개발용어, 웹, 보안, 인증]
 created: 2026-07-16
 aliases: [API 토큰, API Token, API 키, 스코프 기반 토큰, scope-based token, OAuth 스코프, fine-grained 토큰, fine-grained token, 세분화 토큰, PAT]

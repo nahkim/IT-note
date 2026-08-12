@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 네트워크
 tags: [IT, 네트워크, 기초]
 created: 2026-07-08
 aliases: [TCP Keepalive, SO_KEEPALIVE, TCP 킵얼라이브, keepalive]

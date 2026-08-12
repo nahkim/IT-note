@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: AI/ML
 tags: [IT, AI, GPU, CLI, 모니터링]
 created: 2026-06-30
 aliases: [nvidia-smi, NVSMI, NVIDIA System Management Interface]

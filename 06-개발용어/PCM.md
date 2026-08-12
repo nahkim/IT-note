@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: 기타
 tags: [IT, 개발용어, 오디오]
 created: 2026-07-02
 aliases: [PCM, Pulse-Code Modulation, 펄스부호변조, 원시 오디오]

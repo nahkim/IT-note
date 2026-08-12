@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 인프라
 tags: [IT, 도구, 협업, 기초]
 created: 2026-06-11
 aliases: [Git, 깃, 버전 관리, 버전 관리 시스템]

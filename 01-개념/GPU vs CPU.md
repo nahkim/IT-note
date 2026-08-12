@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: CS기초
 tags: [IT, CS, 하드웨어, AI]
 created: 2026-07-08
 aliases: [GPU vs CPU, CPU vs GPU, CPU와 GPU, GPU, CPU]

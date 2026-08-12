@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: AI/ML
 tags: [IT, AI, GPU, 병렬컴퓨팅, 인프라]
 created: 2026-06-29
 aliases: [CUDA, 쿠다, GPGPU]

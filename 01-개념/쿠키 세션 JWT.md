@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 보안
 tags: [IT, 웹, 보안, 기초]
 created: 2026-06-11
 aliases: [쿠키, 세션, JWT]

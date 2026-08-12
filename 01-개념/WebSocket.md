@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 네트워크
 tags: [IT, 웹, 네트워크, 기초]
 created: 2026-06-11
 aliases: [WebSocket, 웹소켓]

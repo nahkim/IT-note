@@ -1,5 +1,6 @@
 ---
 type: 주제정리
+domain: 네트워크
 tags: [IT, 네트워크, 실시간, 정리]
 created: 2026-07-08
 aliases: [REST vs WebSocket vs 폴링, 실시간 통신 비교, polling vs websocket vs sse]

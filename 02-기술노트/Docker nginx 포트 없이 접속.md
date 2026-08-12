@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: 인프라
 tags: [IT, 노트, 네트워크, Docker, nginx]
 출처: (실무 정리 — 기본 포트 80/443 · nginx 리버스 프록시 · Docker 포트 매핑)
 종류: 정리

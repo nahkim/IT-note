@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: CS기초
 tags: [IT, 개발용어]
 created: 2026-07-01
 aliases: [error level, errorlevel, 종료 코드, exit code, 반환 코드]

@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: 네트워크
 tags: [IT, 노트, 네트워크]
 출처: (웹 교차검증 정리 — ISO/IEC 7498 · Check Point · Imperva)
 종류: 정리

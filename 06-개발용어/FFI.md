@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: CS기초
 tags: [IT, 개발용어]
 created: 2026-07-07
 aliases: [FFI, Foreign Function Interface, 외부 함수 인터페이스]
