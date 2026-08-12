@@ -8,38 +8,73 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"01-개념\"",
+      "query": "[\"domain\":\"프론트엔드\"]",
       "color": {
         "a": 1,
-        "rgb": 6061306
+        "rgb": 3900150
       }
     },
     {
-      "query": "path:\"02-기술노트\"",
+      "query": "[\"domain\":\"백엔드\"]",
       "color": {
         "a": 1,
-        "rgb": 4243543
+        "rgb": 10181119
       }
     },
     {
-      "query": "path:\"03-주제정리\"",
+      "query": "[\"domain\":\"인프라\"]",
       "color": {
         "a": 1,
-        "rgb": 9926138
+        "rgb": 16752412
       }
     },
     {
-      "query": "path:\"04-뉴스\"",
+      "query": "[\"domain\":\"네트워크\"]",
       "color": {
         "a": 1,
-        "rgb": 8818326
+        "rgb": 3066993
       }
     },
     {
-      "query": "path:\"06-개발용어\"",
+      "query": "[\"domain\":\"데이터베이스\"]",
       "color": {
         "a": 1,
-        "rgb": 16419862
+        "rgb": 1557426
+      }
+    },
+    {
+      "query": "[\"domain\":\"보안\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16731469
+      }
+    },
+    {
+      "query": "[\"domain\":\"AI/ML\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16735650
+      }
+    },
+    {
+      "query": "[\"domain\":\"CS기초\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16044095
+      }
+    },
+    {
+      "query": "[\"domain\":\"일반\"]",
+      "color": {
+        "a": 1,
+        "rgb": 9807270
+      }
+    },
+    {
+      "query": "[\"domain\":\"기타\"]",
+      "color": {
+        "a": 1,
+        "rgb": 10506797
       }
     }
   ],
@@ -53,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.37140494781919436,
+  "scale": 1.9133458243650272,
   "close": true
 }
