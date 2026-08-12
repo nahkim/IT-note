@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: 네트워크
 tags: [IT, 개발용어, 네트워크]
 created: 2026-07-01
 aliases: [IP 마스커레이드, IP masquerade, 마스커레이드, MASQUERADE, IP 마스커레이딩]

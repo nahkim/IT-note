@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 인프라
 tags: [IT, DevOps, 인프라, 자동화]
 created: 2026-06-25
 aliases: [Ansible, 앤서블]

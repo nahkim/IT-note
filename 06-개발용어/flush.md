@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: CS기초
 tags: [IT, 개발용어]
 created: 2026-07-02
 aliases: [flush, 플러시, 버퍼 비우기]

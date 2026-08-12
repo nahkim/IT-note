@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: AI/ML
 tags: [IT, 노트, AI, MLOps, 서빙]
 출처: 각 프로젝트 공식 문서/저장소 + 비교 자료 (vLLM·TGI·NVIDIA·SGLang 등, 2025~2026 기준)
 종류: 정리

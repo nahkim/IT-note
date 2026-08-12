@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: AI/ML
 tags: [IT, AI, 데이터베이스]
 created: 2026-06-09
 ---

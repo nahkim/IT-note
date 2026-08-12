@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 기타
 tags: [IT, 파일포맷, PDF]
 created: 2026-06-15
 aliases: [PDF 연산자, PDF operator, 콘텐츠 스트림 연산자, content stream operator]

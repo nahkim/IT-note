@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 백엔드
 tags: [IT, 데이터베이스, 백엔드, 기초]
 created: 2026-06-11
 aliases: [ORM, 객체 관계 매핑]

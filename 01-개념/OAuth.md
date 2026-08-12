@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 보안
 tags: [IT, 보안, 웹, 기초]
 created: 2026-06-11
 aliases: [OAuth, OAuth2, OIDC, OpenID Connect]

@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: 인프라
 tags: [IT, 노트, 보안, 스토리지, 네트워크]
 출처: (실무 정리 — AWS SigV4 공식 문서 · rustfs/MinIO)
 종류: 정리

@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 보안
 tags: [IT, 보안, 웹]
 created: 2026-07-02
 aliases: [OWASP Top 10, OWASP, 오와스프]

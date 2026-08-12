@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 보안
 tags: [IT, 보안, 웹, 기초]
 created: 2026-06-17
 aliases: [OIDC, OpenID Connect, ID 토큰, ID Token]

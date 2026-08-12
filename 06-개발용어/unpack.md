@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: CS기초
 tags: [IT, 개발용어]
 created: 2026-07-01
 aliases: [unpack, 언팩, 압축 해제, 구조 분해, destructuring, 언패킹]

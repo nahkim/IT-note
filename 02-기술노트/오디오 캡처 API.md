@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: 프론트엔드
 tags: [IT, 노트, 오디오, Windows, macOS]
 출처: (웹 교차검증 정리 — Microsoft Core Audio · Apple Core Audio 문서)
 종류: 정리

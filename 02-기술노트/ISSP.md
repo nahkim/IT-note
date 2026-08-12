@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: 보안
 tags: [IT, 노트, 보안, 정책]
 출처: (웹 교차검증 정리 — NIST SP 800-14 · Whitman & Mattord)
 종류: 정리

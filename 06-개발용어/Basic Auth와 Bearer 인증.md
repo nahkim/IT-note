@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: 보안
 tags: [IT, 개발용어, 웹, 보안, 인증]
 created: 2026-07-16
 aliases: [Basic Auth, Basic Authentication, 기본 인증, Bearer 인증, Bearer Authentication, Bearer Token, Authorization 헤더]

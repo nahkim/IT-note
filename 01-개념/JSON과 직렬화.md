@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: CS기초
 tags: [IT, 웹, 데이터, 기초]
 created: 2026-06-11
 aliases: [JSON, 직렬화, Serialization, 역직렬화]

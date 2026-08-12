@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: AI/ML
 tags: [IT, 노트, AI, 생성형AI, 이미지]
 출처: (웹 교차검증 정리 — ComfyUI/디퓨전 UI 비교 자료)
 종류: 정리

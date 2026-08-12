@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: AI/ML
 tags: [IT, AI, LLM, 서빙]
 created: 2026-07-01
 aliases: [로컬 LLM, 셀프호스팅, self-hosting LLM, 직접 모델 배포]

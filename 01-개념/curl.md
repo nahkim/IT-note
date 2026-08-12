@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 네트워크
 tags: [IT, 네트워크, CLI, 도구]
 created: 2026-06-29
 aliases: [curl, 컬]

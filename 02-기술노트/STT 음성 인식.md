@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: AI/ML
 tags: [IT, 노트, AI, 음성, STT, ASR]
 출처: 각 모델 공식 문서 + Hugging Face Open ASR Leaderboard + 비교 자료 (Whisper·NVIDIA·Deepgram·AssemblyAI 등, 2025~2026 기준)
 종류: 정리

@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 인프라
 tags: [IT, DevOps, 인프라, 기초]
 created: 2026-06-11
 aliases: [컨테이너, Docker, 도커]

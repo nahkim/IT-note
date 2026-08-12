@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 인프라
 tags: [IT, 시스템설계, 네트워크]
 created: 2026-06-10
 ---

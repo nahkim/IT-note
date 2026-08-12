@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: 일반
 tags: [IT, 개발용어]
 created: 2026-07-01
 aliases: [extension, 확장자, 파일 확장자, 확장 프로그램, 익스텐션, 애드온]

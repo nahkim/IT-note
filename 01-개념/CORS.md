@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 프론트엔드
 tags: [IT, 웹, 보안, 기초]
 created: 2026-06-11
 aliases: [CORS, 교차 출처 리소스 공유]

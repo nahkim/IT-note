@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 인프라
 tags: [IT, 리눅스, 운영체제, DevOps]
 created: 2026-06-25
 aliases: [systemd, 시스템d, systemctl]

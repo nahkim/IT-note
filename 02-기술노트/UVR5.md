@@ -1,5 +1,6 @@
 ---
 type: 기술노트
+domain: AI/ML
 tags: [IT, 노트, 오디오, AI, STT]
 출처: (웹 교차검증 정리 — UVR GUI 공식 GitHub · audio-separator)
 종류: 정리

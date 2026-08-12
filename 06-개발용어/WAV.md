@@ -1,5 +1,6 @@
 ---
 type: 용어
+domain: 기타
 tags: [IT, 개발용어, 오디오]
 created: 2026-07-02
 aliases: [WAV, WAVE, 웨이브, wav 파일]
