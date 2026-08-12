@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: 보안
 tags: [IT, 보안, 웹, 기초]
 created: 2026-06-17
 aliases: [RBAC, 역할 기반 접근 제어, Role-Based Access Control]
@@ -29,12 +30,15 @@ aliases: [RBAC, 역할 기반 접근 제어, Role-Based Access Control]
 - 실무 표준: [[쿠버네티스]]의 RBAC(Role/RoleBinding), AWS IAM, DB 권한, 사내 어드민 등 거의 모든 권한 시스템의 기본 뼈대.
 
 ### RBAC vs ABAC
-- **ABAC(속성 기반, Attribute-Based)** 는 역할 대신 **속성**(사용자 부서·시간·위치·기기·자원 민감도 등)을 그때그때 평가해 접근을 결정한다.
+- **[[ABAC]](속성 기반, Attribute-Based)** 는 역할 대신 **속성**(사용자 부서·시간·위치·기기·자원 민감도 등)을 그때그때 평가해 접근을 결정한다.
 - **RBAC** — 단순·직관적, 역할이 안정적인 조직에 적합. 단, 역할이 잘게 쪼개지면 "역할 폭발(role explosion)"이 일어난다.
 - **ABAC** — 시간·위치 같은 **동적 맥락**까지 반영하는 세밀한 제어가 가능하지만 설계·관리가 복잡.
 - 현실에선 **혼용**이 흔하다: RBAC로 기본 권한을 깔고, ABAC로 동적 조건을 덧입힌다.
+- → 자세한 비교·선택 기준은 [[RBAC vs ABAC]] 참고.
 
 ## 관련 개념
+- [[ABAC]] — 속성·맥락으로 판단하는 짝이 되는 방식
+- [[RBAC vs ABAC]] — 언제 무엇을 쓸지 비교 정리
 - [[인증과 인가]] — RBAC는 **인가(authorization)** 의 한 구현 방식 (인증이 끝난 뒤의 단계)
 - [[최소 권한 원칙]] — RBAC가 실현하려는 보안 원칙
 - [[OAuth]] · [[OIDC]] — 인증/토큰 발급 표준 (토큰 안의 역할·스코프가 RBAC와 만난다)

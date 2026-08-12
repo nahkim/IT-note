@@ -1,5 +1,6 @@
 ---
 type: 개념
+domain: AI/ML
 tags: [IT, AI, LLM, 서빙, MLOps]
 created: 2026-06-29
 aliases: [vLLM, PagedAttention]
@@ -48,7 +49,7 @@ LLM 추론에는 두 가지 큰 병목이 있다.
 - [[동기와 비동기]] — 연속 배칭·비동기 요청 처리의 바탕
 
 ## 내 생각 / 질문
--
+- 그러면 gpu에 접근하는 API를 제대로 못만들면 저건 소용없는거아냐?
 
 ---
 > ✅ **웹 교차검증 완료** — vLLM(UC Berkeley Sky Computing Lab 출발, 고처리량·메모리 효율 LLM 추론·서빙 엔진), PagedAttention(KV 캐시를 OS 가상메모리식 페이지로 관리→단편화 제거·프리픽스 공유), 연속 배칭(정적 배칭 대비 GPU 저활용 해소), OpenAI 호환 서버·텐서/파이프라인 병렬·양자화(FP8/FP4/GPTQ/AWQ/GGUF 등), PyTorch 기반·2025년 PyTorch Foundation 호스팅 프로젝트·V1 엔진을 vLLM 공식 문서·Red Hat·PyTorch/UC Berkeley 발표·GitHub로 확인.
