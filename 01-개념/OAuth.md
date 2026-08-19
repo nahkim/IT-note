@@ -19,6 +19,7 @@ aliases: [OAuth, OAuth2, OIDC, OpenID Connect]
   - **Authorization Server** — 사용자를 확인하고 **토큰을 발급**하는 서버(구글 등).
   - **Resource Server** — 실제 데이터를 가진 API 서버.
 - 흐름의 결과로 **Access Token**(보통 짧은 수명)이 발급되고, 클라이언트는 이 토큰으로 자원에 접근한다. 토큰이 만료돼도 Refresh Token으로 재발급.
+- **퍼블릭 클라이언트(모바일 앱·SPA·CLI)** 는 `client_secret`을 숨길 수 없다 → 인가 코드 흐름에 **[[PKCE]]**(RFC 7636)를 붙여 코드 탈취를 막는다. 2025년 RFC 9700·OAuth 2.1 기준으로는 **사실상 기본값**이고, 옛 자료의 **implicit grant는 폐기**됐다.
 - **중요한 구분**:
   - **OAuth 2.0 = 인가(authorization)** 프레임워크. 그 자체로는 "이 사람이 누구인지(인증)"를 표준화해 알려주지 않는다.
   - **OpenID Connect(OIDC)** = OAuth 2.0 **위에 얹은 인증(authentication) 계층**. 사용자 신원 정보를 담은 **ID Token(JWT)**을 추가로 발급한다.
@@ -30,8 +31,10 @@ aliases: [OAuth, OAuth2, OIDC, OpenID Connect]
 
 ## 관련 개념
 - [[OIDC]] — OAuth 2.0 위에 인증을 얹은 계층(ID 토큰)
+- [[PKCE]] — 인가 코드 흐름을 지키는 확장, 퍼블릭 클라이언트의 필수품
 - [[인증과 인가]] — OAuth=인가, OIDC=인증이라는 핵심 구분
 - [[쿠키 세션 JWT]] — access/ID 토큰이 흔히 JWT
+- [[CSRF]] — `state` 파라미터가 막는 것
 - [[API 게이트웨이]] — 토큰 검증을 공통 관문에서 처리하기도
 
 ## 내 생각 / 질문
