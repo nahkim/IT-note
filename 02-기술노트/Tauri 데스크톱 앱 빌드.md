@@ -87,7 +87,7 @@ tauri build
   - 오래된 Ubuntu 러너를 쓰는 이유: **glibc는 하위 호환만 되므로 낮은 버전에서 빌드해야 넓게 돌아간다.**
 
 ### 6. 서명(Signing) — "빌드는 됐는데 안 열리는" 구간
-- **macOS**: Developer ID 인증서로 코드 서명 + Apple **공증(notarization)** 을 받아야 Gatekeeper가 통과시킨다. 인증서 없이 배포하면 "손상되었습니다"가 뜨므로 CI에서는 최소한 **ad-hoc 서명**이라도 하라고 문서가 권한다.
+- **macOS**: Developer ID 인증서로 코드 서명 + Apple **공증(notarization)** 을 받아야 Gatekeeper가 통과시킨다. 인증서 없이 배포하면 "손상되었습니다"가 뜨므로 CI에서는 최소한 **ad-hoc 서명**이라도 하라고 문서가 권한다. → [[애드혹 서명 vs 정식 서명]]
 - **Windows**: 코드 서명 인증서가 없으면 SmartScreen 경고. (EV/OV 인증서, 또는 Azure Trusted Signing 류를 사용)
 - **Linux**: 강제 서명 개념 없음 — 대신 AppImage 서명·저장소 GPG 서명이 관례.
 - 결론: 서명은 **번들 단계에 끼어드는 별개 관심사**이고, 키·인증서는 전부 CI 시크릿([[환경 변수]])으로 주입한다.
