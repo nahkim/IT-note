@@ -3,7 +3,7 @@ type: 개념
 domain: AI/ML
 tags: [IT, AI, LLM, 서빙]
 created: 2026-07-01
-aliases: [로컬 LLM, 셀프호스팅, self-hosting LLM, 직접 모델 배포]
+aliases: [로컬 LLM, LLM 셀프호스팅, 셀프호스팅 LLM, self-hosting LLM, 직접 모델 배포]
 ---
 
 # 로컬 LLM vs 직접 모델 배포 (셀프호스팅)
@@ -41,6 +41,7 @@ aliases: [로컬 LLM, 셀프호스팅, self-hosting LLM, 직접 모델 배포]
 - [[vLLM]] — 프로덕션 셀프호스팅의 대표 엔진
 - [[LLM]] · [[파인튜닝]] — 굴리고 손보는 대상 모델
 - [[CUDA]] · [[nvidia-smi]] — GPU 실행·모니터링
+- [[셀프호스팅]] — "내가 설치하고 내가 운영한다"는 일반 개념(운영 책임·백업·라이선스)
 - [[온프레미스]] — 셀프호스팅을 사내 인프라에 두는 경우
 - [[온디바이스]] — 로컬 LLM을 폰·엣지로 밀어붙인 형태
 
