@@ -35,6 +35,7 @@ aliases: [OAuth, OAuth2, OIDC, OpenID Connect]
 - [[인증과 인가]] — OAuth=인가, OIDC=인증이라는 핵심 구분
 - [[쿠키 세션 JWT]] — access/ID 토큰이 흔히 JWT
 - [[CSRF]] — `state` 파라미터가 막는 것
+- [[딥링크와 루프백]] — 네이티브 앱·CLI가 인가 코드를 되돌려받는 두 경로
 - [[API 게이트웨이]] — 토큰 검증을 공통 관문에서 처리하기도
 
 ## 내 생각 / 질문
