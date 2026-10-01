@@ -37,6 +37,7 @@ aliases: [TCP Keepalive, SO_KEEPALIVE, TCP 킵얼라이브, keepalive]
 - [[재시도와 백오프]] — 연결이 끊긴 뒤의 상위 계층 대응
 - [[리버스 프록시]] — nginx `proxy_socket_keepalive on`으로 upstream 연결에 적용
 - [[긴 요청 응답 유실 (NAT 연결 만료)]] — 이 개념이 실제 문제가 된 실무 사례
+- [[터널링]] — 바깥 터널 keepalive와 안쪽 TCP keepalive는 다른 계층
 
 ## 내 생각 / 질문
 -
