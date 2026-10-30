@@ -46,6 +46,7 @@ aliases: [systemd, 시스템d, systemctl]
 
 ## 관련 개념
 - [[프로세스와 스레드]] — systemd는 PID 1로 모든 프로세스의 부모·감시자
+- [[pm2]] — Node 진영에서 같은 역할을 하는 프로세스 매니저(클러스터·무중단 reload 추가)
 - [[환경 변수]] — 유닛 파일의 `Environment=` / `EnvironmentFile=` 로 서비스에 환경 변수 주입
 - [[컨테이너와 Docker]] — 컨테이너는 systemd 대신 단일 프로세스, 운영 철학 대비
 - [[FastAPI]] — 직접 만든 서버를 `.service`로 등록해 데몬화하는 전형적 사례
